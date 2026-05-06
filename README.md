@@ -70,15 +70,19 @@ python app.py
 ---
 
 ## 📁 Project Structure
-├── app.py                  # Gradio web app
-├── requirements.txt
+
+\```
+GTSRB-ViT-Traffic-Sign-Classifier/
+├── app.py                       # Gradio web app
+├── requirements.txt             
 ├── model/
-│   └── gtsrb_vit_4epoch.pth   # Fine-tuned model weights (Git LFS)
+│   └── gtsrb_vit_4epoch.pth    # Fine-tuned model weights (Git LFS)
 ├── assets/
 │   ├── loss_accuracy_curves.png
 │   ├── predictions.png
 │   └── confusion_matrix.png
-└── GTSRB_ViT.ipynb         # Training notebook
+└── GTSRB_ViT.ipynb              # Training notebook
+\```
 
 ---
 
