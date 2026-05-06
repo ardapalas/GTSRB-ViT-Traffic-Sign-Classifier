@@ -71,7 +71,7 @@ python app.py
 
 ## 📁 Project Structure
 
-\```
+```
 GTSRB-ViT-Traffic-Sign-Classifier/
 ├── app.py                       # Gradio web app
 ├── requirements.txt             
@@ -82,7 +82,7 @@ GTSRB-ViT-Traffic-Sign-Classifier/
 │   ├── predictions.png
 │   └── confusion_matrix.png
 └── GTSRB_ViT.ipynb              # Training notebook
-\```
+```
 
 ---
 
